@@ -1,0 +1,28 @@
+.mat-card-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.mat-card-container {
+  width: 400px;
+}
+
+.mat-card-header {
+  display: flex;
+  justify-content: center;
+}
+
+.mat-card-title {
+  text-align: center;
+}
+
+.mat-form-field {
+  width: 100%;
+}
+
+.mat-card-actions {
+  display: flex;
+  justify-content: center;
+}
